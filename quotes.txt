@@ -1,0 +1,21 @@
+Talk is cheap. Show me the code. – Linus Torvalds
+First, solve the problem. Then, write the code. – John Johnson
+Programs must be written for people to read... – Harold Abelson
+Simplicity is the soul of efficiency. – Austin Freeman
+Make it work, make it right, make it fast. – Kent Beck
+Good code is its own best documentation. – Steve McConnell
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
+Deleted code is debugged code. – Jeff Sickel
+Fix the cause, not the symptom. – Steve Maguire
+Clean code always looks like it was written by someone who cares. – Robert C. Martin
+Testing leads to failure, and failure leads to understanding. – Burt Rutan
+You can't have great software without a great team. – Joel Spolsky
+A user interface is like a joke. If you have to explain it, it’s not that good. – Martin LeBlanc
+Optimism is an occupational hazard of programming. – Kent Beck
+Coding is not just code, that is a live thing to serve everyone! – Ming Song
+If debugging is the process of removing bugs, then programming must be the process of putting them in. – Edsger Dijkstra
+Programming isn't about what you know; it's about what you can figure out. – Chris Pine
+The best way to get a project done faster is to start sooner. – Jim Highsmith
+Before software can be reusable it first has to be usable. – Ralph Johnson
+The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
+

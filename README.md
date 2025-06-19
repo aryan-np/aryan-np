@@ -72,9 +72,7 @@
 
 ## 📔 Daily Dev Quote Journal
 
-This README is automatically updated daily with a new developer quote I admire —  
-added via automated commits, one:
- 
+This README is automatically updated daily with a new developer quote I admire.
 
 It’s a simple way to keep inspired and track my learning journey over time.  
 Check the latest quotes at the bottom of this README!
@@ -85,3 +83,4 @@ Check the latest quotes at the bottom of this README!
 
 ## 📅 Dev Quote for 2025-06-19
 You can't have great software without a great team. – Joel Spolsky
+"You can't have great software without a great team. – Joel Spolsky"
