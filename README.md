@@ -5,11 +5,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
 </p>
 
-- 💻 I enjoy building clean, scalable backend systems using **Node.js**, **Java**, and **Python**  
-- 🧠 I'm learning **machine learning**, working on simple classification, regression, and supervised learning models  
-- 📊 I use tools like **Pandas**, **Matplotlib**, and **Seaborn** to analyze and visualize data  
-- 🌱 Currently focused on improving my backend architecture and ML fundamentals  
-- 👨‍💻 Explore my work in [GitHub Repositories](https://github.com/aryan-np?tab=repositories)  
+- 💻 I enjoy building scalable and clean backend systems with **JavaScript (Node.js)**, **Java**, **Python**, and **PHP**  
+- 🌱 Currently learning **machine learning** and building simple classification, regression, and supervised learning models  
+- 📊 I also work with **Pandas**, **Matplotlib**, and **Seaborn** for basic data analysis and visualization  
+- 🎓 Pursuing BSc. (Hons) Computer Science at **Herald College Kathmandu**  
+- 👨‍💻 Explore my work on [GitHub Repositories](https://github.com/aryan-np?tab=repositories)  
 - 📫 Reach me at **nparyan7@gmail.com**  
 - 🌐 Visit my portfolio: [aryan-neupane.com.np](https://aryan-neupane.com.np)
 
@@ -32,18 +32,19 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
 </p>
+
+<p><strong>Other tools & concepts:</strong> Swing, JDBC, Django, Pandas, Matplotlib, Seaborn, Problem Solving, Communication</p>
 
 ---
 
