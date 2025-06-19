@@ -68,11 +68,16 @@
   <img src="https://komarev.com/ghpvc/?username=aryan-np&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="funny developer gif" />
-</p>
+---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
-</p>
+## 📔 Daily Dev Quote Journal
+
+This README is automatically updated daily with a new developer quote I admire —  
+added via automated commits, one:
+ 
+
+It’s a simple way to keep inspired and track my learning journey over time.  
+Check the latest quotes at the bottom of this README!
+
+---
+
