@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aryan Neupane</h1>
+<h3 align="center">Backend Developer & Computer Science Student from Nepal 🇳🇵</h3>
 
-<!--
-**aryan-np/aryan-np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
+</p>
 
-Here are some ideas to get you started:
+- 💻 I enjoy building clean, scalable backend systems using **Node.js**, **Java**, and **Python**  
+- 🧠 I'm learning **machine learning**, working on simple classification, regression, and supervised learning models  
+- 📊 I use tools like **Pandas**, **Matplotlib**, and **Seaborn** to analyze and visualize data  
+- 🌱 Currently focused on improving my backend architecture and ML fundamentals  
+- 👨‍💻 Explore my work in [GitHub Repositories](https://github.com/aryan-np?tab=repositories)  
+- 📫 Reach me at **nparyan7@gmail.com**  
+- 🌐 Visit my portfolio: [aryan-neupane.com.np](https://aryan-neupane.com.np)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryan-neupane-1a80a4265/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="mailto:nparyan7@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="30" />
+  </a>
+  <a href="https://aryan-neupane.com.np" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" />
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-np&show_icons=true&theme=tokyonight" alt="Aryan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-np&layout=compact&theme=tokyonight" alt="Aryan's most used languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-np&theme=tokyonight" alt="GitHub streak stats" />
+</p>
+
+---
+
+<h3 align="left">🏆 Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan-np&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryan-np&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="funny developer gif" />
+</p>
