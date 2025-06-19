@@ -84,3 +84,4 @@ Check the latest quotes at the bottom of this README!
 
 
 ## 📅 Dev Quote for 2025-06-19
+You can't have great software without a great team. – Joel Spolsky
