@@ -88,4 +88,4 @@ Check the latest quotes at the bottom of this README!
 
 
 ## 📅 Dev Quote for 2025-06-24
-" "
+"Coding is not just code, that is a live thing to serve everyone! – Ming Song"
