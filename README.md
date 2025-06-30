@@ -91,5 +91,5 @@ Check the latest quotes at the bottom of this README!
 
 
 
+
 ## 📅 Dev Quote for 2025-06-30
-"Before software can be reusable it first has to be usable. – Ralph Johnson"
