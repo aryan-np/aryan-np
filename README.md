@@ -99,4 +99,4 @@ Check the latest quotes at the bottom of this README!
 
 
 ## 📅 Dev Quote for 2025-11-07
-" "
+"Talk is cheap. Show me the code. – Linus Torvalds"
