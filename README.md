@@ -94,7 +94,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-np&theme=radical" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=aryan-np&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=aryan-np)" />
 </p>
 
 ---
