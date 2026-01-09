@@ -1,3 +1,9 @@
+<!-- ===================================================== -->
+<!-- GitHub Profile README                                -->
+<!-- Username: aryan-np                                   -->
+<!-- Change username in ALL stats URLs if needed          -->
+<!-- ===================================================== -->
+
 # Hi 👋, I'm Aryan Neupane
 
 ### Backend Developer & Computer Science Student from Nepal 🇳🇵
@@ -12,11 +18,11 @@
 
 - 💻 Backend-focused developer interested in building **clean, scalable, and maintainable server-side systems**
 - 🐍 Primarily focused on **Python**, **Django**, and **Django REST Framework**
-- 🌐 Experience building **RESTful APIs**, handling authentication, and database-driven applications
-- 🧠 Learning backend fundamentals including **API design**, **database modeling**, and **system structure**
+- 🌐 Experience building **RESTful APIs**, authentication systems, and database-driven applications
+- 🧠 Actively learning **API design**, **database modeling**, and **backend architecture**
 - 🎓 Pursuing **BSc. (Hons) Computer Science** at **Herald College Kathmandu**
-- 👨‍💻 Explore my work on GitHub: https://github.com/aryan-np
-- 📫 Reach me at **nparyan7@gmail.com**
+- 👨‍💻 GitHub: https://github.com/aryan-np
+- 📫 Email: **nparyan7@gmail.com**
 - 🌐 Portfolio: https://aryan-neupane.com.np
 
 ---
@@ -52,17 +58,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
 </p>
 
-**Backend & API Skills:**  
+**Backend & API Skills**  
 Django REST Framework, RESTful API Development, Authentication & Authorization, JWT, CRUD Operations, WebSocket, MVC / MVT Architecture
 
-**Other Tools & Concepts:**  
+**Other Tools & Concepts**  
 Postman, JDBC, Swing, Database Design, API Testing, Debugging, Problem Solving, Communication
 
 ---
 
 ## 🏅 Achievements
 
-- Built multiple **backend-driven projects** using Django & REST APIs  
+- Built multiple **backend-driven projects** using Django and REST APIs  
 - Designed and integrated **PostgreSQL and MySQL databases**  
 - Implemented **authentication systems** (JWT & session-based)  
 - Developed **CRUD-based admin and user modules**  
@@ -82,7 +88,7 @@ Postman, JDBC, Swing, Database Design, API Testing, Debugging, Problem Solving, 
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aryan-np&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=aryan-np&theme=tokyonight)
 
 ---
 
