@@ -1,43 +1,44 @@
-<!-- ===================================================== -->
-<!-- GitHub Profile README                                -->
-<!-- Username: aryan-np                                   -->
-<!-- Change username in ALL stats URLs if needed          -->
-<!-- ===================================================== -->
+<!-- =============================================== -->
+<!-- GitHub Profile README                           -->
+<!-- Username: aryan-np                              -->
+<!-- =============================================== -->
 
 # Hi 👋, I'm Aryan Neupane
 
-### Backend Developer & Computer Science Student from Nepal 🇳🇵
+### Backend Developer | Python & Django Focused | CS Student 🇳🇵
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Backend-focused developer interested in building **clean, scalable, and maintainable server-side systems**
-- 🐍 Primarily focused on **Python**, **Django**, and **Django REST Framework**
-- 🌐 Experience building **RESTful APIs**, authentication systems, and database-driven applications
-- 🧠 Actively learning **API design**, **database modeling**, and **backend architecture**
-- 🎓 Pursuing **BSc. (Hons) Computer Science** at **Herald College Kathmandu**
-- 👨‍💻 GitHub: https://github.com/aryan-np
-- 📫 Email: **nparyan7@gmail.com**
-- 🌐 Portfolio: https://aryan-neupane.com.np
+- 🐍 Backend-focused developer with strong interest in **Python-based systems**
+- ⚙️ Experienced with **Django** and **Django REST Framework**
+- 🌐 Passionate about building **scalable APIs** and **database-driven applications**
+- 🧠 Learning backend architecture, authentication systems, and clean code practices
+- 🎓 BSc. (Hons) Computer Science student at **Herald College Kathmandu**
+- 📍 Based in Nepal
+
+📫 **Email:** nparyan7@gmail.com  
+🌐 **Portfolio:** https://aryan-neupane.com.np  
+💻 **GitHub:** https://github.com/aryan-np  
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aryan-neupane-1a80a4265/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:nparyan7@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://aryan-neupane.com.np">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" />
   </a>
@@ -48,48 +49,64 @@
 ## 🛠 Languages, Frameworks & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" />
 </p>
 
-**Backend & API Skills**  
-Django REST Framework, RESTful API Development, Authentication & Authorization, JWT, CRUD Operations, WebSocket, MVC / MVT Architecture
-
-**Other Tools & Concepts**  
-Postman, JDBC, Swing, Database Design, API Testing, Debugging, Problem Solving, Communication
+### Backend & API Skills
+- Django REST Framework
+- RESTful API Design
+- JWT & Session Authentication
+- CRUD Operations
+- Database Design & Optimization
+- MVC / MVT Architecture
 
 ---
 
 ## 🏅 Achievements
 
-- Built multiple **backend-driven projects** using Django and REST APIs  
-- Designed and integrated **PostgreSQL and MySQL databases**  
-- Implemented **authentication systems** (JWT & session-based)  
-- Developed **CRUD-based admin and user modules**  
-- Actively maintaining and improving projects on GitHub  
+- Developed multiple **backend-first applications** using Django
+- Built and secured **REST APIs** with authentication & authorization
+- Integrated **PostgreSQL & MySQL** in real-world projects
+- Implemented admin/user role-based systems
+- Consistently improving open-source projects on GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-np&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-np&show_icons=true&theme=radical" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-np&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-np&layout=compact&theme=radical" height="165" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-np&theme=tokyonight)
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-np&theme=radical" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=aryan-np&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=aryan-np&theme=radical" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryan-np&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryan-np&label=Profile%20Views&color=brightgreen&style=flat" />
+</p>
