@@ -15,12 +15,12 @@
 
 ## 🚀 About Me
 
-- 🐍 Backend-focused developer with strong interest in **Python-based systems**
+- 🐍 Backend-focused developer with strong interest in **Python**
 - ⚙️ Experienced with **Django** and **Django REST Framework**
-- 🌐 Passionate about building **scalable APIs** and **database-driven applications**
-- 🧠 Learning backend architecture, authentication systems, and clean code practices
+- 🌐 Build clean, scalable **REST APIs**
+- 🧠 Learning backend architecture, authentication & best practices
 - 🎓 BSc. (Hons) Computer Science student at **Herald College Kathmandu**
-- 📍 Based in Nepal
+- 📍 Nepal
 
 📫 **Email:** nparyan7@gmail.com  
 🌐 **Portfolio:** https://aryan-neupane.com.np  
@@ -61,21 +61,22 @@
 
 ### Backend & API Skills
 - Django REST Framework
-- RESTful API Design
+- RESTful API Development
 - JWT & Session Authentication
 - CRUD Operations
-- Database Design & Optimization
+- PostgreSQL & MySQL
+- WebSockets
 - MVC / MVT Architecture
 
 ---
 
 ## 🏅 Achievements
 
-- Developed multiple **backend-first applications** using Django
-- Built and secured **REST APIs** with authentication & authorization
-- Integrated **PostgreSQL & MySQL** in real-world projects
-- Implemented admin/user role-based systems
-- Consistently improving open-source projects on GitHub
+- Built multiple **backend-driven web applications**
+- Designed and secured **REST APIs** with authentication
+- Worked with **relational databases** in real projects
+- Implemented role-based access systems
+- Active contributor to personal and academic projects
 
 ---
 
@@ -94,7 +95,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=aryan-np&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=aryan-np)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-np" />
 </p>
 
 ---
