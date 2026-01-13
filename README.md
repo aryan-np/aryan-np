@@ -95,7 +95,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-np&theme=dark&border_radius=6" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-np&theme=dark&border_radius=6" alt="GitHub Streak" />
 </p>
 
 ---
