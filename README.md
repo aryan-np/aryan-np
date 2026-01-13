@@ -82,13 +82,11 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-np&show_icons=true&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-np&layout=compact&theme=radical" height="165" />
-</p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryan-np&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan-np&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryan-np&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan-np&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan-np&theme=2077" height="180em" />
 
 ---
 
